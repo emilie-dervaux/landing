@@ -31,6 +31,10 @@
   max-width: 800px;
 }
 
+body {
+  text-align: center;
+}
+
 h2 {
   color: #F9A72B;
   font-size: 28px;
@@ -41,6 +45,19 @@ p {
   color: #444444;
   font-size: 16px;
   line-height: 1.5;
+}
+
+img {
+  max-width: 200px; 
+}
+
+.header h1 {
+
+padding: 30px;
+background-color: black;
+color: #F9A72B;
+font-size: 28px;
+font-weight: bold;
 }
 
 /* Styles for the cards section */
@@ -98,7 +115,6 @@ footer {
   background-color: #F9A72B;
   color: #FFFFFF;
   padding: 20px;
-  text-align: center;
 }
 
 
